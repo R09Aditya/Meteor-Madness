@@ -1,5 +1,7 @@
+plotly
 streamlit
 flask
 requests
 pandas
 numpy
+
